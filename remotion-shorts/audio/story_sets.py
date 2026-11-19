@@ -1,0 +1,2 @@
+# generated from src/videos/aita/story.ts: (start frame, end frame, ambience)
+SETS = [(0, 480, 'street_day'), (480, 1709, 'room'), (1709, 1959, 'street_golden'), (1959, 2036, 'room'), (2036, 2231, 'street_golden'), (2231, 2332, 'room'), (2332, 2402, 'street_golden'), (2402, 2461, 'room'), (2461, 2493, 'street_day'), (2493, 2601, 'street_golden'), (2601, 2788, 'room'), (2788, 2823, 'street_golden'), (2823, 3380, 'street_day')]
