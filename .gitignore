@@ -23,3 +23,11 @@ out/
 # Generated voice audio
 *.f32
 *.mp3
+
+# Videos
+*.mp4
+*.mov
+*.webm
+*.mkv
+*.avi
+*.m4v
