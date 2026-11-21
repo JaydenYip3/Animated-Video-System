@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-sitcom-thinline-teleporter",
+  "name": "Teleporter (Sci-Fi Sitcom Thin Line example)",
+  "family": "TV Cartoon Looks",
+  "file": "teleporter.js",
+  "base": "../..",
+  "previewOnly": true,
+  "fontNames": "Fredoka",
+  "fontLink": "https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=block",
+  "topic": "How would a teleporter work?",
+  "format": "vertical"
+}

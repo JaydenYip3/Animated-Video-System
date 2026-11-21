@@ -1,0 +1,10 @@
+{
+  "id": "sci-fi-sitcom",
+  "name": "Sci-Fi Sitcom Cartoon",
+  "family": "TV Cartoon Looks",
+  "file": "sci-fi-sitcom.js",
+  "people": "people.js",
+  "fontNames": "Luckiest Guy, Fredoka",
+  "fontLink": "https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Luckiest+Guy&display=block",
+  "topic": "How does a microwave heat food?"
+}

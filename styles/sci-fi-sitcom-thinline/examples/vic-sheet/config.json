@@ -1,0 +1,12 @@
+{
+  "id": "sci-fi-sitcom-thinline-vic-sheet",
+  "name": "Vic character sheet (Sci-Fi Sitcom Thin Line)",
+  "family": "TV Cartoon Looks",
+  "file": "vic-sheet.js",
+  "base": "../..",
+  "previewOnly": true,
+  "fontNames": "Fredoka",
+  "fontLink": "https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&display=block",
+  "topic": "Character sheet: Vic",
+  "format": "horizontal"
+}

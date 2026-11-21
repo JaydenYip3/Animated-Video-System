@@ -1,0 +1,11 @@
+{
+  "id": "sci-fi-sitcom-teleporter",
+  "name": "Teleporter (Sci-Fi Sitcom Cartoon example)",
+  "family": "TV Cartoon Looks",
+  "file": "teleporter.js",
+  "base": "../..",
+  "previewOnly": true,
+  "fontNames": "Luckiest Guy, Fredoka",
+  "fontLink": "https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Luckiest+Guy&display=block",
+  "topic": "How would a teleporter work?"
+}
